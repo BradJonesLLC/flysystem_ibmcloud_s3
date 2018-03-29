@@ -6,6 +6,6 @@
     "license": "GPL-2.0+",
     "require": {
         "drupal/flysystem_s3": "^1",
-        "thephpleague/flysystem-aws-s3-v3": "^1.0.19"
+        "league/flysystem-aws-s3-v3": "^1.0.19"
     }
 }
