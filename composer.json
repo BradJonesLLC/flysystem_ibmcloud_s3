@@ -1,0 +1,6 @@
+{
+  "name": "bradjonesllc/flysystem_ibmcloud_s3",
+  "require": {
+    "drupal/flysystem_s3": "^1"
+  }
+}

@@ -1,0 +1,7 @@
+name: Flysystem IBM Cloud S3-compatible storage
+description: 'Provides an IBM Cloud S3 implementation for Flysystem.'
+type: module
+core: 8.x
+package: Flysystem
+dependencies:
+ - flysystem_s3
