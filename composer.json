@@ -1,6 +1,10 @@
 {
-  "name": "bradjonesllc/flysystem_ibmcloud_s3",
-  "require": {
-    "drupal/flysystem_s3": "^1"
-  }
+    "name": "bradjonesllc/flysystem_ibmcloud_s3",
+    "description": "Provides an IBM Cloud S3 implementation for Drupal's Flysystem module",
+    "type": "drupal-module",
+    "homepage": "https://github.com/BradJonesLLC/flysystem_ibmcloud_s3",
+    "license": "GPL-2.0+",
+    "require": {
+        "drupal/flysystem_s3": "^1"
+    }
 }
